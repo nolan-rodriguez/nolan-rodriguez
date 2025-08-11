@@ -1,5 +1,5 @@
 # Hello, World!
-Hi there! I'm Nolan, a 16 year old who has been breaking Linux installations for over a decade.
+Hi there! I'm Nolan, a 16 year old who has been breaking Linux installations for well over a decade.
 ## Programming
 I don't really code that much, so I don't really belong on GitHub, but when I do program, it is usually in bash, which is the Linux terminal and programming language. I want to start learning a new language, probably Python or JavaScript, though I've heard that learning a low level language like C first is beneficial. Unfortunately, I can't really find many good places to start learning, if you have suggestions, feel free to shoot me an email.
 ## Projects
